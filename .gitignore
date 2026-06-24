@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+data/
+secrets/
+.env
+*.db
+# секреты/логин — НИКОГДА не коммитить
+vpn/
+*.ovpn
+runtime/
+.venv-mac/
+backups/
+logs/
+*.bak
